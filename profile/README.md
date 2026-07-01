@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/colinstiles" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-colin--tda-181717?style=for-the-badge&logo=github" />
+    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-colinstiles-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.tn.gov/agriculture.html" target="_blank" rel="noopener noreferrer">
     <img alt="Tennessee Department of Agriculture" src="https://img.shields.io/badge/Tennessee%20Department%20of%20Agriculture-2D6A4F?style=for-the-badge" />
