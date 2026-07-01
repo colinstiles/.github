@@ -48,12 +48,12 @@ geospatial analysis        forest data systems        public-sector technology
 data science workflows     practical automation       clear, useful outputs
 ```
 
-## Featured Work
+## tin+topo
 
 <p align="center">
   <img
-    src="./assets/recent-map.png"
-    alt="Chickasaw Ecology"
+    src="./assets/logo.png"
+    alt="tin+topo logo"
     height="780"
   />
 </p>
