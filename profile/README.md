@@ -34,12 +34,21 @@ I turn forest, field, and operational data into maps, workflows, and decision-ma
 
 I live in Chattanooga, Tennessee. Outside of GIS and forestry, I love whitewater kayaking, climbing, scuba diving, and gravel biking.
 
-## What I build
+## Featured Work
 
-- Spatial analysis workflows for forestry operations, planning, and reporting.
-- Clean, reproducible data pipelines that turn raw field data into usable products.
-- Maps and dashboards designed for real decisions, not just visual polish.
-- Automation that saves staff time and reduces manual data cleanup.
+| :--- | :--- |
+| **[cts-gis-portfolio](https://github.com/colinstiles/cts-gis-portfolio)** | My professional portfolio website that is hosted via `github pages`. |
+| **[cts-code-metrics](https://github.com/colinstiles/cts-code-metrics)** | A dashboard that tracks lines of code and commits using `cloc` and `git actions`. |
+| **[tin+topo](https://github.com/tin-and-topo)** | My tin+topo projects! |
+| **[.github](https://github.com/colinstiles/.github)** | The central repository for my community health files and templates. |
+
+<p align="center">
+  <img
+    src="./assets/recent-map.png"
+    alt="Chickasaw Ecological Areas"
+    width="720"
+  />
+</p>
 
 ## Things I Care About
 
@@ -57,6 +66,21 @@ data science workflows     practical automation       clear, useful outputs
     height="500"
   />
 </p>
+
+## How to Contribute
+
+I welcome contributions and suggestions! The best way to engage is to open an issue to discuss a bug or new idea.
+
+- 📝 **[Suggest a feature or enhancement](https://github.com/colinstiles/.github/issues/new?assignees=&labels=enhancement&template=feature_request.yml&title=%5BFeature%5D%3A+)**
+- 🐛 **[Report a bug or an error](https://github.com/colinstiles/.github/issues/new?assignees=&labels=bug&template=bug_report.yml&title=%5BBug%5D%3A+)**
+
+Please review my **[Contributing Guidelines](https://github.com/colinstiles/.github/blob/main/CONTRIBUTING.md)** before opening a pull request.
+
+## Recent Stories
+
+- <a href="https://medium.com/@colintimothystiles/case-study-mapping-geohazards-in-the-philippines-731823f61772" target="_blank">(Medium) GIS Case Study: Mapping Geohazards in the Philippines</a>
+
+- <a href="https://medium.com/@colintimothystiles/arcgis-pro-python-analyzing-land-cover-change-in-major-global-urban-centers-6affacdb6d78" target="_blank">(Medium) ArcGIS Pro & Python: Analyzing Land Cover Change in Major Global Urban Centers</a>
 
 ## Connect
 
