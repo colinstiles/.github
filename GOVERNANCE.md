@@ -1,8 +1,8 @@
 # Governance
 
-This document outlines the governance model for projects within the `tin-and-topo` GitHub organization. Our goal is to ensure projects are maintained in a transparent and consistent manner.
+This document outlines the governance model for projects within the `colinstiles` GitHub. My goal is to ensure projects are maintained in a transparent and consistent manner.
 
-This guide works in conjunction with our Contributing Guidelines and Code of Conduct.
+This guide works in conjunction with my Contributing Guidelines and Code of Conduct.
 
 ## Roles and Responsibilities
 

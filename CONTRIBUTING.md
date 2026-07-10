@@ -1,6 +1,6 @@
 # Contributing to tin+topo Projects
 
-Thank you for your interest in contributing to `tin+topo's` open-source projects! Your help is appreciated. Contributions should make repositories clearer, more reliable, and easier to use.
+Thank you for your interest in contributing to `colinstiles'` open-source projects! Your help is appreciated. Contributions should make repositories clearer, more reliable, and easier to use.
 
 By participating, you are expected to uphold our [Code of Conduct](CODE_OF_CONDUCT.md).
 

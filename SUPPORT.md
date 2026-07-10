@@ -1,12 +1,12 @@
 # Getting Support
 
-Thank you for using projects from `tin+topo`. Here’s how to get help.
+Thank you for using my projects. Here’s how to get help.
 
 ## Reporting an Issue
 
 If you've found a bug, have a feature request, or see a gap in documentation, the best way to get help is to **open an issue** in the specific repository you are using.
 
-To help us resolve your issue quickly, please include:
+To help me resolve your issue quickly, please include:
 
 *   The repository name.
 *   A clear description of the expected behavior.
@@ -19,6 +19,4 @@ For security concerns, please follow the private reporting process in our [Secur
 
 ## General Inquiries
 
-For general information about the Tennessee Department of Agriculture, please visit our public website:
-
-<https://www.tinandtopo.com>
+You can reach me at `colintimothystiles@gmail.com`

@@ -1,6 +1,6 @@
 # GitHub Organization Defaults
 
-Welcome! This special repository centralizes the default community health files and templates for all repositories within the `tin-and-topo` GitHub organization.
+Welcome! This special repository centralizes the default community health files and templates for all repositories within the `colinstiles` GitHub.
 
 The files here provide a consistent baseline for contributions, support, and automation. Repository-specific files will always override these defaults.
 
@@ -8,13 +8,13 @@ The files here provide a consistent baseline for contributions, support, and aut
 
 | Path | Purpose |
 | --- | --- |
-| profile/README.md | The public-facing README for the `tin-and-topo` organization. |
-| CONTRIBUTING.md | Default guide for how to contribute to our projects. |
+| profile/README.md | My public-facing README. |
+| CONTRIBUTING.md | Default guide for how to contribute to my projects. |
 | CODE_OF_CONDUCT.md | Sets participation expectations for a positive community. |
 | SECURITY.md | Instructions for responsibly reporting security vulnerabilities. |
 | SUPPORT.md | Guidance on how to get help and support. |
 | GOVERNANCE.md | Outlines project stewardship and decision-making. |
-| AGENTS.md | Instructions for AI coding assistants interacting with our repos. |
+| AGENTS.md | Instructions for AI coding assistants interacting with my repos. |
 | .github/ISSUE_TEMPLATE | Default forms for creating new issues (bugs, features). |
 | .github/PULL_REQUEST_TEMPLATE.md | The default template for pull request descriptions. |
 | workflow-templates | Reusable GitHub Actions workflow templates for CI/CD. |

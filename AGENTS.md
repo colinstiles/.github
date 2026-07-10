@@ -1,8 +1,8 @@
-# tin+topo AI Agent Configuration
+# AI Agent Configuration
 
-This document defines standard operating procedures, environmental constraints, and coding standards for AI coding agents working in `tin+topo` repositories.
+This document defines standard operating procedures, environmental constraints, and coding standards for AI coding agents working in `colinstiles` repositories.
 
-These instructions are intended for Codex in VS Code and may also be followed by other coding agents such as Cline or Gemini.
+These instructions are intended for Gemini in VS Code and may also be followed by other coding agents such as Cline or Codex.
 
 ## Primary Objective
 

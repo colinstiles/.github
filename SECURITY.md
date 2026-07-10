@@ -1,6 +1,6 @@
 # Security Policy
 
-The `tin-and-topo` team takes security vulnerabilities seriously. We appreciate your efforts to responsibly disclose your findings, and we will make every effort to acknowledge your contributions.
+I take security vulnerabilities seriously. I appreciate your efforts to responsibly disclose your findings, and I will make every effort to acknowledge your contributions.
 
 ## Reporting A Vulnerability
 
@@ -8,13 +8,13 @@ The `tin-and-topo` team takes security vulnerabilities seriously. We appreciate 
 
 Instead, please report suspected vulnerabilities, exposed credentials, or sensitive data by emailing the security contact at:
 
-**cts@tinandtopo.com**
+**colintimothystiles@gmail.com**
 
 You may also use GitHub's private vulnerability reporting feature if it is enabled on the repository.
 
 ## What To Include
 
-To help us triage your report quickly, please include as much of the following information as possible:
+To help me triage your report quickly, please include as much of the following information as possible:
 
 - The affected repository, file, workflow, or service.
 - A clear description of the concern.
