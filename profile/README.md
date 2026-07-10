@@ -56,6 +56,7 @@ I live in Chattanooga, Tennessee. Outside of GIS and forestry, I love whitewater
 ```text
 geospatial analysis        forest data systems        public-sector technology
 data science workflows     practical automation       clear, useful outputs
+jess! (human)              willow! (dog)              coconut! (dog)
 ```
 
 ## tin+topo
