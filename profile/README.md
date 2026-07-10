@@ -68,6 +68,8 @@ data science workflows     practical automation       clear, useful outputs
   />
 </p>
 
+I am the founder of `tin+topo`, where I make custom map prints and interactive mapping applications.
+
 ## How to Contribute
 
 I welcome contributions and suggestions! The best way to engage is to open an issue to discuss a bug or new idea.
