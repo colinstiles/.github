@@ -38,8 +38,8 @@ I live in Chattanooga, Tennessee. Outside of GIS and forestry, I love whitewater
 
 | Repo | Description |
 | :--- | :--- |
-| **[cts-gis-portfolio](https://github.com/colinstiles/cts-gis-portfolio)** | My professional portfolio website that is hosted via `github pages`. |
-| **[cts-code-metrics](https://github.com/colinstiles/cts-code-metrics)** | A dashboard that tracks lines of code and commits using `cloc` and `git actions`. |
+| **[cts-gis-portfolio](https://colinstiles.github.io/cts-gis-portfolio/)** | My professional portfolio website that is hosted via `github pages`. |
+| **[cts-code-metrics](https://colinstiles.github.io/cts-code-metrics/)** | A dashboard that tracks lines of code and commits using `cloc` and `git actions`. |
 | **[tin+topo](https://github.com/tin-and-topo)** | My tin+topo projects! |
 | **[.github](https://github.com/colinstiles/.github)** | The central repository for my community health files and templates. |
 
