@@ -64,7 +64,7 @@ data science workflows     practical automation       clear, useful outputs
   <img
     src=profile\assets\logo.png
     alt="tin+topo logo"
-    height="500"
+    height="250"
   />
 </p>
 
