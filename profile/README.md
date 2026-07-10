@@ -36,6 +36,7 @@ I live in Chattanooga, Tennessee. Outside of GIS and forestry, I love whitewater
 
 ## Featured Work
 
+| Repo | Description |
 | :--- | :--- |
 | **[cts-gis-portfolio](https://github.com/colinstiles/cts-gis-portfolio)** | My professional portfolio website that is hosted via `github pages`. |
 | **[cts-code-metrics](https://github.com/colinstiles/cts-code-metrics)** | A dashboard that tracks lines of code and commits using `cloc` and `git actions`. |
@@ -44,7 +45,7 @@ I live in Chattanooga, Tennessee. Outside of GIS and forestry, I love whitewater
 
 <p align="center">
   <img
-    src="./assets/recent-map.png"
+    src=profile\assets\recent-map.png
     alt="Chickasaw Ecological Areas"
     width="720"
   />
@@ -61,7 +62,7 @@ data science workflows     practical automation       clear, useful outputs
 
 <p align="center">
   <img
-    src="./assets/logo.png"
+    src=profile\assets\logo.png
     alt="tin+topo logo"
     height="500"
   />
