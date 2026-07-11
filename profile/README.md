@@ -47,11 +47,11 @@ I live in Chattanooga, Tennessee. Outside of GIS and forestry, I love whitewater
 | **[.github](https://github.com/colinstiles/.github)** | The central repository for my community health files and templates. |
 
 <p align="center">
-  <img
-    src=profile\assets\recent-map.png
-    alt="Chickasaw Ecological Areas"
-    width="720"
-  />
+  <a href="https://colinstiles.github.io/cts-code-metrics/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/colinstiles/cts-code-metrics/main/assets/code-metrics-dashboard.png"
+         alt="Code Metrics Dashboard"
+         width="720"/>
+  </a>
 </p>
 
 ## Things I Care About
