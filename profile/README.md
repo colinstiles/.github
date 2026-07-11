@@ -1,22 +1,22 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1B4332,45:2D6A4F,100:168AAD&text=Colin%20T.%20Stiles&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=GIS%20Manager%20%2B%20Data%20Scientist%20%7C%20Tennessee%20Department%20of%20Agriculture&descAlignY=58&descSize=17"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:556B2F,45:8B5E34,100:CD853F&text=Colin%20T.%20Stiles&fontColor=F8FAFC&fontSize=44&fontAlignY=38&desc=GIS%20Manager%20%2B%20Data%20Scientist%20%7C%20Tennessee%20Department%20of%20Agriculture&descAlignY=58&descSize=17"
     alt="Colin T. Stiles profile banner"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/colinstiles" target="_blank" rel="noopener noreferrer">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-colinstiles-181717?style=for-the-badge&logo=github" />
+    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-colinstiles-5D4037?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.tn.gov/agriculture.html" target="_blank" rel="noopener noreferrer">
-    <img alt="Tennessee Department of Agriculture" src="https://img.shields.io/badge/Tennessee%20Department%20of%20Agriculture-2D6A4F?style=for-the-badge" />
+    <img alt="Tennessee Department of Agriculture" src="https://img.shields.io/badge/Tennessee%20Department%20of%20Agriculture-556B2F?style=for-the-badge" />
   </a>
   <a href="https://www.tinandtopo.com" target="_blank" rel="noopener noreferrer">
-    <img alt="tin and topo website" src="https://img.shields.io/badge/tin+topo.com-2D6A4F?style=for-the-badge" />
+    <img alt="tin and topo website" src="https://img.shields.io/badge/tin+topo.com-8B5E34?style=for-the-badge" />
   </a>
   <a href="https://www.google.com/maps/place/Chattanooga,+TN" target="_blank" rel="noopener noreferrer">
-    <img alt="Chattanooga, Tennessee" src="https://img.shields.io/badge/Chattanooga,%20Tennessee-168AAD?style=for-the-badge" />
+    <img alt="Chattanooga, Tennessee" src="https://img.shields.io/badge/Chattanooga,%20Tennessee-CD853F?style=for-the-badge" />
   </a>
 </p>
 
