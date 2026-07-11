@@ -21,12 +21,14 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://github.com/colinstiles.png"
-    width="256"
-    height="256"
-    alt="Colin T. Stiles"
-  />
+  <a href="https://colinstiles.github.io/cts-gis-portfolio/" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://github.com/colinstiles.png"
+      width="256"
+      height="256"
+      alt="Colin T. Stiles"
+    />
+  </a>
 </p>
 
 ## Hello, I'm Colin
@@ -65,11 +67,13 @@ jess! (human)              willow! (dog)              coconut! (dog)
 ## tin+topo
 
 <p align="center">
-  <img
-    src=profile\assets\logo.png
-    alt="tin+topo logo"
-    height="250"
-  />
+  <a href="https://www.tinandtopo.com" target="_blank" rel="noopener noreferrer">
+    <img
+      src="profile/assets/logo.png"
+      alt="tin+topo logo"
+      height="250"
+    />
+  </a>
 </p>
 
 I am the founder of `tin+topo`, where I make custom map prints and interactive mapping applications.
