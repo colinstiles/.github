@@ -96,5 +96,6 @@ Please review my **[Contributing Guidelines](https://github.com/colinstiles/.git
 ## Connect
 
 <p>
-  <a href="https://colinstiles.github.io/cts-gis-portfolio/" target="_blank" rel="noopener noreferrer"><img alt="My Portfolio" src="https://img.shields.io/badge/My%20Portfolio-004b8d?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/colin-t-stiles-gisp-386717292/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://colinstiles.github.io/cts-gis-portfolio/" target="_blank" rel="noopener noreferrer"><img alt="My Portfolio" src="https://img.shields.io/badge/My%20Portfolio-8B5E34?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/colin-t-stiles-gisp-386717292/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-556B2F?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
