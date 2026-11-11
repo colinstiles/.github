@@ -77,7 +77,7 @@ I am the founder of `tin+topo`, where I make custom map prints and interactive m
 <p align="center">
   <a href="https://www.tinandtopo.com" target="_blank" rel="noopener noreferrer">
     <img
-      src="profile/assets/tt-logo.png"
+      src="profile/assets/tt-logo.jpg"
       alt="tin+topo logo"
       height="250"
     />
