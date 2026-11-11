@@ -12,8 +12,14 @@
   <a href="https://www.tn.gov/agriculture.html" target="_blank" rel="noopener noreferrer">
     <img alt="Tennessee Department of Agriculture" src="https://img.shields.io/badge/Tennessee%20Department%20of%20Agriculture-556B2F?style=for-the-badge" />
   </a>
+  <a href="https://www.colinstiles.com" target="_blank" rel="noopener noreferrer">
+    <img alt="my website" src="https://img.shields.io/badge/colinstiles.com-000000?style=for-the-badge" />
+  </a>
   <a href="https://www.tinandtopo.com" target="_blank" rel="noopener noreferrer">
-    <img alt="tin and topo website" src="https://img.shields.io/badge/tin+topo.com-8B5E34?style=for-the-badge" />
+    <img alt="tin and topo website" src="https://img.shields.io/badge/tinandtopo.com-8B5E34?style=for-the-badge" />
+  </a>
+  <a href="https://www.signalspatial.com" target="_blank" rel="noopener noreferrer">
+    <img alt="signal spatial website" src="https://img.shields.io/badge/signalspatial.com-5D4037?style=for-the-badge" />
   </a>
   <a href="https://www.google.com/maps/place/Chattanooga,+TN" target="_blank" rel="noopener noreferrer">
     <img alt="Chattanooga, Tennessee" src="https://img.shields.io/badge/Chattanooga,%20Tennessee-CD853F?style=for-the-badge" />
@@ -43,15 +49,16 @@ I live in Chattanooga, Tennessee. Outside of GIS and forestry, I love whitewater
 
 | Repo | Description |
 | :--- | :--- |
-| **[cts-gis-portfolio](https://colinstiles.github.io/cts-gis-portfolio/)** | My professional portfolio website that is hosted via `github pages`. |
+| **[cts-portfolio](https://colinstiles.github.io/cts-portfolio/)** | My professional portfolio website that is hosted via `github pages`. |
 | **[cts-code-metrics](https://colinstiles.github.io/cts-code-metrics/)** | A dashboard that tracks lines of code and commits using `cloc` and `git actions`. |
 | **[tin+topo](https://github.com/tin-and-topo)** | My tin+topo projects! |
+| **[signal_spatial](https://github.com/signal-spatial)** | My signal_spatial projects! |
 | **[.github](https://github.com/colinstiles/.github)** | The central repository for my community health files and templates. |
 
 <p align="center">
-  <a href="https://colinstiles.github.io/cts-code-metrics/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/colinstiles/cts-code-metrics/main/assets/code-metrics-dashboard.png"
-         alt="Code Metrics Dashboard"
+  <a href="https://challenge.colinstiles.com/" target="_blank" rel="noopener noreferrer">
+    <img src="profile/assets/recent-map.png"
+         alt="30 day challenge map"
          width="720"/>
   </a>
 </p>
@@ -64,19 +71,29 @@ data science workflows     practical automation       clear, useful outputs
 jess! (human)              willow! (dog)              coconut! (dog)
 ```
 
-## tin+topo
+## personal projects
 
+I am the founder of `tin+topo`, where I make custom map prints and interactive mapping applications.
 <p align="center">
   <a href="https://www.tinandtopo.com" target="_blank" rel="noopener noreferrer">
     <img
-      src="profile/assets/logo.png"
+      src="profile/assets/tt-logo.png"
       alt="tin+topo logo"
       height="250"
     />
   </a>
 </p>
 
-I am the founder of `tin+topo`, where I make custom map prints and interactive mapping applications.
+I am the founder of `signal_spatial`, a location-based software solutions service.
+<p align="center">
+  <a href="https://www.signalspatial.com" target="_blank" rel="noopener noreferrer">
+    <img
+      src="profile/assets/ss-logo.png"
+      alt="signal spatial logo"
+      height="250"
+    />
+  </a>
+</p>
 
 ## How to Contribute
 
